@@ -1,0 +1,8 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="src/PantryChef.Api/PantryChef.Api.csproj" />
+  </Folder>
+  <Folder Name="/tests/">
+    <Project Path="tests/PantryChef.Api.Tests/PantryChef.Api.Tests.csproj" />
+  </Folder>
+</Solution>
